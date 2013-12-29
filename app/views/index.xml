@@ -1,0 +1,17 @@
+<Alloy>
+	<Window class="container">
+		<!-- profile display -->
+		<ScrollableView class="switchView" showPagingControl="true">
+			<View id="iconAndName">
+				<ImageView id="iconImage" class="profileIcon" onLongpress="changeIconDialog" image="http://placehold.jp/100x100.png" />
+				<Label id="nameLabel" />
+			</View>
+			<View id="message">
+				<Label id="profileLabel" class="profileMessage" / >
+			</View>
+		</ScrollableView>
+		
+		<!-- sns display -->
+		<TableView class="socialInfoView"></TableView>
+	</Window>
+</Alloy>

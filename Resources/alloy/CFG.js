@@ -1,0 +1,1 @@
+module.exports={"dependencies":{},"name":"Shinnosuke Ogasawara","profile":"職業：アプリケーションエンジニア　言語：Java"};

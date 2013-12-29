@@ -1,0 +1,14 @@
+{
+	"global": {
+		"name" : "Shinnosuke Ogasawara",
+		"profile" : "職業：アプリケーションエンジニア　言語：Java"
+	}, 
+	"env:development": {}, 
+	"env:test": {}, 
+	"env:production": {}, 
+	"os:android": {},
+	"os:blackberry": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"dependencies": {}
+}
